@@ -7,7 +7,7 @@ Home Credit adalah perusahaan pembiayaan yang menyediakan pinjaman tanpa agunan 
 - Terapkan limit pinjaman bertahap (progressive lending) pada segmen pinjaman menengah (10.000–20.000) yang paling berisiko macet.
   
 # Conclusion
-- 47.21% pinjaman mengalami kredit macet, dengan mayoritas berasal dari nasabah tanpa riwayat kredit (67.9%).
+- 47.7% pinjaman mengalami kredit macet, dengan mayoritas berasal dari nasabah tanpa riwayat kredit (52.3%).
 - Model Random Forest menunjukkan performa terbaik (akurasi ±0.55, f1-score 0.42), menandakan potensinya untuk diterapkan dalam proses credit scoring.
 - Analisis data membantu mengidentifikasi pola risiko dan mendukung kebijakan kredit yang lebih akurat dan efisien.
 
